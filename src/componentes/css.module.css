@@ -1,0 +1,10 @@
+.quadro{
+    width: 90%;
+    height:70px;
+    margin-left:5%;
+    border-bottom:1px solid lightgrey;
+    line-height: 50px;
+}
+.quadro h6{
+    color:silver;
+}
